@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '7002'
     url: http://www.gutenberg.org/2009/agents/7002
 description: p. 164-92.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16891#Peter-Parley-s-Tales-About-America-and-Australia
 gutenberg_bookshelf:
 - Australia
 - Children's History
